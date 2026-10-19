@@ -1,0 +1,6 @@
+{
+  "name": "Trosky - Archivo de Memoria Familiar y Comunitaria",
+  "description": "Plataforma de memoria intergeneracional con cuadrícula responsiva estilo Pinterest, carga infinita, álbumes familiares y preservación de saberes ancestrales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
